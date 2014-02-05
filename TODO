@@ -1,2 +1,3 @@
   * Implement logic to make sure it can be stoped in the middle
     * Write file to temp and do rename
+  * Clear queue option
